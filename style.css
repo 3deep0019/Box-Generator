@@ -1,0 +1,12 @@
+
+#box {
+    width: 100px;
+    height: 100px;
+    margin: 2%;
+    padding: 4%;
+    float: left;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+ }
